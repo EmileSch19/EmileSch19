@@ -13,7 +13,7 @@
 
 Je suis développeur fullstack passionné par la création d'applications web modernes, de l'interface utilisateur à la base de données.
 
-Actuellement en **Bachelor Chef de projet digitaux option Web**, je construis des projets concrets pour monter en compétences sur l'ensemble de la stack — et je cherche une **alternance en développement fullstack** (rythme 3s entreprise / 1s école).
+Actuellement en **Bachelor Chef de projet digitaux option Web** à l'Eemi, je construis des projets concrets pour monter en compétences sur l'ensemble de la stack — et je cherche une **alternance en développement fullstack** (rythme 3s entreprise / 1s école).
 
 ---
 
@@ -59,11 +59,11 @@ Actuellement en **Bachelor Chef de projet digitaux option Web**, je construis de
 ### 📬 Me contacter
 
 <p>
-  <a href="https://linkedin.com/in/TON-PROFIL">
+  <a href="https://linkedin.com/in/emile-essomba-dufoulon">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:TON-EMAIL@gmail.com">
+  <a href="mailto:emile.dufoulon@outlook.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
