@@ -3,8 +3,8 @@
 <h1 align="center">Salut, moi c'est Emile 👋</h1>
 
 <p align="center">
-  Développeur fullstack · Lyon, France<br/>
-  En recherche d'alternance — Master 2 Développement Web & Mobile
+  Développeur web fullstack · Lyon, France<br/>
+  En recherche d'alternance — Bachelor Chef de projet digitaux option Web
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 Je suis développeur fullstack passionné par la création d'applications web modernes, de l'interface utilisateur à la base de données.
 
-Actuellement en **Master 2 à l'ESTIAM Lyon**, je construis des projets concrets pour monter en compétences sur l'ensemble de la stack — et je cherche une **alternance en développement fullstack** (rythme 4j entreprise / 1j école).
+Actuellement en **Bachelor Chef de projet digitaux option Web**, je construis des projets concrets pour monter en compétences sur l'ensemble de la stack — et je cherche une **alternance en développement fullstack** (rythme 3s entreprise / 1s école).
 
 ---
 
